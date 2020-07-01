@@ -1,4 +1,6 @@
 *.bcsymbolmap
+*.xcuserdata
+*.xcworkspace
 Carthage/Checkouts
 Carthage/Build/.card.io-iOS-source.version
 Carthage/Build/iOS/CardIO.framework.dSYM
